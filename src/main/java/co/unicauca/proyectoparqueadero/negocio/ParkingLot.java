@@ -1,6 +1,6 @@
 package co.unicauca.proyectoparqueadero.negocio;
 
-import co.unicauca.proyectoparqueadero.negocio.manufactura.Utilities;
+import co.unicauca.proyectoparqueadero.infraestructura.Utilities;
 import java.util.Date;
 
 /**

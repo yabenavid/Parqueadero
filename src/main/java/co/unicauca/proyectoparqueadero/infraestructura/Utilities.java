@@ -1,4 +1,4 @@
-package co.unicauca.proyectoparqueadero.negocio.manufactura;
+package co.unicauca.proyectoparqueadero.infraestructura;
 
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
